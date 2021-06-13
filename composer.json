@@ -1,0 +1,14 @@
+{
+    "name": "kraivit/htdocs",
+    "authors": [
+        {
+            "name": "Kraivit Mongkhonsakunrit",
+            "email": "kraivit.m@edvisory.co.th"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\":"App/"
+        }
+    }
+}
